@@ -1,0 +1,3 @@
+run the repeater code once .
+create a database in firebase.
+enter symptoms from android app.
